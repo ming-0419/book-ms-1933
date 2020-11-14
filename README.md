@@ -2,7 +2,7 @@
 
 一个简单的图书管理项目
 
-1.部署
-在book-ms-1933/src/com/gec/util/DBUtil.java下修改数据库的配置
+部署
+1.在book-ms-1933/src/com/gec/util/DBUtil.java下修改数据库的配置
 
-添加book.sql数据表
+2.添加book.sql数据表
